@@ -1,2 +1,3 @@
-# Strive_exercises
+# 
+_exercises
 My two months in Strive school
